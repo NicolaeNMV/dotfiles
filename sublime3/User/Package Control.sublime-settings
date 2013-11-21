@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"CSScomb",
+		"Djaneiro",
+		"Jedi - Python autocompletion",
+		"JsFormat",
+		"LESS",
+		"Markdown Preview",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"Strapdown Markdown Preview"
+	]
+}
