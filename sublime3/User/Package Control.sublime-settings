@@ -1,18 +1,28 @@
 {
 	"installed_packages":
 	[
+		"ABC Notation",
+		"CodeFormatter",
 		"CSScomb",
 		"Djaneiro",
+		"DocBlockr",
 		"Dracula Color Scheme",
+		"Git",
+		"Indent XML",
 		"Jedi - Python autocompletion",
 		"JsFormat",
 		"LESS",
+		"MacTerminal",
 		"Markdown Preview",
+		"Play 2.0",
 		"Python PEP8 Autoformat",
 		"ScalaFormat",
 		"Schemr",
 		"SideBarEnhancements",
 		"Strapdown Markdown Preview",
+		"SublimeLinter-php",
+		"SublimeLinter-phplint",
+		"SublimeREPL",
 		"Theme - Soda"
 	]
 }
