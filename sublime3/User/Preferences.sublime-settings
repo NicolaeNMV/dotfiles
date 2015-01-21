@@ -1,16 +1,33 @@
 {
 	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"detect_indentation": true,
 	"draw_white_space": "all",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".target",
+		".idea",
+		".idea_modules",
+		".settings",
+		"target"
+	],
 	"font": "Menlo",
 	"font_size": 12,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
+  "tab_size": 2,
+	"ignored_packages":["Vintage"],
+	"index_exclude_patterns":
 	[
-		"Vintage"
+		"/Users/nna/jet/onconnect/packaging*",
+		"/Users/nna/jet/eol/app/platforms/*",
+		"*.log"
 	],
 	"show_full_path": true,
-	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false
 }

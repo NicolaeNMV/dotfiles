@@ -1,28 +1,40 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
-		"ABC Notation",
+		"BracketHighlighter",
 		"CodeFormatter",
 		"CSScomb",
-		"Djaneiro",
 		"DocBlockr",
 		"Dracula Color Scheme",
+		"Elm Language Support",
 		"Git",
-		"Indent XML",
-		"Jedi - Python autocompletion",
+		"Highlight",
+		"HTML Page Snippets",
 		"JsFormat",
 		"LESS",
-		"MacTerminal",
 		"Markdown Preview",
+		"Package Control",
 		"Play 2.0",
-		"Python PEP8 Autoformat",
-		"ScalaFormat",
+		"Pretty JSON",
 		"Schemr",
 		"SideBarEnhancements",
 		"Strapdown Markdown Preview",
-		"SublimeLinter-php",
-		"SublimeLinter-phplint",
-		"SublimeREPL",
-		"Theme - Soda"
+		"sublime-text-gitignore",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"Theme - Sodarized",
+		"VAlign"
+	],
+	"repositories":
+	[
+		"https://github.com/apc999/sublime-text-gitignore"
 	]
 }
