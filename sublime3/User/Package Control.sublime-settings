@@ -1,15 +1,12 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
-	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
 	],
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"CloseOtherWindows",
 		"CodeFormatter",
 		"CSScomb",
 		"DocBlockr",
@@ -22,10 +19,12 @@
 		"JsFormat",
 		"LESS",
 		"Markdown Preview",
+		"MarkdownEditing",
 		"Package Control",
 		"Play 2.0",
 		"Pretty JSON",
 		"Schemr",
+		"Shell Exec",
 		"SideBarEnhancements",
 		"Strapdown Markdown Preview",
 		"sublime-text-gitignore",
